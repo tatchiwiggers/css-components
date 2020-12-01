@@ -16,9 +16,7 @@
 }
 
 .tabs-item {
-   /* todos terão 25%, ninguem cresce ninguem diminui */
   /* flex: 0 0 25%; */
-/* todos crescem igualmente*/
   flex: 1 0 auto;
   background: #756a66;
   text-align: center;
@@ -34,7 +32,6 @@
   border-radius: 0 10px  0 0;
 }
 
-/* voltar no HTML e adicionar actice class no 1o tabs-item */
 .tabs-item.active {
   background: white;
   color: black;

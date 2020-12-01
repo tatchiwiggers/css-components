@@ -1,11 +1,10 @@
 .product {
   display: flex;
   align-items: center;
-  /* these two leave for last!! */
   margin-bottom: 5px;
   padding: 10px;
 }
-/* leave for last!! */
+
 .product:hover {
   background: #e6e6ee;
 }
@@ -15,7 +14,7 @@
   padding: 0 10px;
 }
 
-/* inspect and do it there b4 moving it to here; */
+
 .product-upvotes {
   text-align: center;
   padding: 10px;
